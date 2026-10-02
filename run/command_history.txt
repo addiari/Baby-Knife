@@ -1,0 +1,1 @@
+/give Player780 baby_knife:wood_babyknife

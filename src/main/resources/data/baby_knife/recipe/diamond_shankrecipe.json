@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": "minecraft:diamond",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "baby_knife:diamond_babyknife",
+    "count": 1
+  }
+}

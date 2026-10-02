@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "baby_knife:gold_babyknife",
+    "count": 1
+  }
+}

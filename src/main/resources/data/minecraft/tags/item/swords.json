@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "baby_knife:gold_babyknife",
+    "baby_knife:diamond_babyknife",
+    "baby_knife:iron_babyknife",
+    "baby_knife:wood_babyknife",
+    "baby_knife:stone_babyknife",
+    "baby_knife:netherite_babyknife"
+  ]
+}
